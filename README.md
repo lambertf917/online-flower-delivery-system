@@ -2,4 +2,4 @@
   
   ![Online Flower Delivery System](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/lambert/Online%20Flower%20Delivery%20System.webp) 
   
-  The Online Flower Delivery System frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://onboarding.enatega.com/register/?utm_source=github&utm_medium=repo&utm_campaign=lambert-online-flower-delivery-system" target="_blank">click here</a>.
+  The Online Flower Delivery System frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=lambert-online-flower-delivery-system" target="_blank">click here</a>.
